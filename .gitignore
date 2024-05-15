@@ -1,0 +1,11 @@
+# VSCode config
+/.vscode
+
+# ROS
+/build
+/devel
+/src/CMakeLists.txt
+
+# Logging
+/*.txt
+/*.pdf
